@@ -16,7 +16,8 @@ Please be aware of the following RULES before using ALSA:
 5. Please give feedbacks of applying ALSA by writing to lanhx@lreis.ac.an, lilp@lreis.ac.cn or Lan_group@126.com.
 
 
-一款免费共享的灾害易发性自动分析软件。
+
+ALSA是一款免费共享的灾害易发性自动分析软件。
 
 当前ALSA版本基于ArcGIS10.8开发和测试。
 
