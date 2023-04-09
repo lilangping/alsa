@@ -1,5 +1,5 @@
 # alsa
-一款灾害易发性自动分析的共享软件。
+一款免费共享的灾害易发性自动分析软件。
 
 An open software for automatic landslide susceptibility analysis
 
