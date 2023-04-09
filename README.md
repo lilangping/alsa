@@ -9,11 +9,11 @@ Please install ArcGIS before installing ALSA.
 It will be very kind of you to contact the authors if you find any bugs or errors.
 
 Please be aware of the following RULES before using ALSA:
-1) ALSA is a research tool developed by the LAN research group, and is expected to be mainly used for academic purposes. The LAN research group does not assume any responsibility for any risk in using ALSA.
-2) ALSA is made publicly free by the LAN research group. The LAN research group is willing to give necessary technical supports when possible, but the LAN research group does not assume any obligation to give technical supports.
-3) It is suggested to cite or refer to relevant references of ALSA when publishing or releasing results obtained with the support of ALSA.
-4) Do not violate any relevant laws and regulations when applying ALSA.
-5) Please give feedbacks of applying ALSA by writing to lanhx@lreis.ac.an, lilp@lreis.ac.cn or Lan_group@126.com.
+1. ALSA is a research tool developed by the LAN research group, and is expected to be mainly used for academic purposes. The LAN research group does not assume any responsibility for any risk in using ALSA.
+2. ALSA is made publicly free by the LAN research group. The LAN research group is willing to give necessary technical supports when possible, but the LAN research group does not assume any obligation to give technical supports.
+3. It is suggested to cite or refer to relevant references of ALSA when publishing or releasing results obtained with the support of ALSA.
+4. Do not violate any relevant laws and regulations when applying ALSA.
+5. Please give feedbacks of applying ALSA by writing to lanhx@lreis.ac.an, lilp@lreis.ac.cn or Lan_group@126.com.
 
 
 一款免费共享的灾害易发性自动分析软件。
