@@ -3,11 +3,8 @@
 ALSA is an open software for automatic landslide susceptibility analysis.
 
 The version 5.0 is developed and should be run based on ArcGIS Pro.
-
 V5.0 is recommended if you have access to ArcGIS Pro.
-
 The latest vesions based on ArcMap is V4.0/V4b.0, which were developed and tested using ArcGIS 10.8.
-
 Please install the relevant version of ArcGIS before installing ALSA.
 
 It will be very kind of you to contact the authors if you find any bugs or errors.
