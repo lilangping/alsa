@@ -18,6 +18,21 @@ Please be aware of the following RULES before using ALSA:
 4. Do not violate any relevant laws and regulations when applying ALSA.
 5. Please give feedbacks of applying ALSA by writing to lanhx@lreis.ac.an, lilp@lreis.ac.cn or Lan_group@126.com.
 
+References:
+
+
+[1] Lan, H.X.*, Zhou, C.H., Wang, L.J., Zhang, H.Y., Li, R.H., 2004. Landslide hazard spatial analysis and prediction using GIS in the Xiaojiang watershed, Yunnan, China. Engineering Geology, 76(1-2), 109–128.（ALSA, Certainty Factor）
+
+[2] Li, L.P., Lan, H.X.*, Guo, C.B., Zhang, Y.S., Li, Q.W., Wu, Y.M., 2017. A Modified Frequency Ratio Method for Landslide Susceptibility Assessment. Landslides, 14(2), 727–741.（ALSA 1.0, Continuous Susceptibility）
+
+[3] Zhang, Y.X., Lan, H.X.*, Li, L.P., Wu, Y.M., Chen, J.H., Tian, N.M., 2020. Optimizing the frequency ratio method for landslide susceptibility assessment: A case study of the Caiyuan Basin in the southeast mountainous area of China. Journal of Mountain Science, 17(2), 340–357.（ALSA 2.0, Parameter Optimization）
+
+[4] Li, L.P., Lan, H.X.*, 2023. Bivariate Landslide Susceptibility Analysis: Clarification, Optimization, Open Software, and Preliminary Comparison. Remote Sensing, 15(5), 1418.（ALSA 3.0, Bivariate Generalization）
+
+[5] Li, L.P., Lan, H.X.*, 2024. Bivariate Analytical ‘decisiveness’ as a robust measure of the absolute importance of landslide predisposing factors. International Journal of Digital Earth, 17(1), 2356161.（ALSA 4.0/5.0, Absolute Importance）
+
+
+
 
 
 ALSA是一款免费共享的灾害易发性自动分析软件。
