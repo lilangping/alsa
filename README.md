@@ -1,5 +1,7 @@
 # ALSA
 
+=================================================
+
 ALSA is an open software for automatic landslide susceptibility analysis.
 
 The version 5.0 is developed and should be run based on ArcGIS Pro.
@@ -34,6 +36,8 @@ References:
 
 
 
+
+=================================================
 
 ALSA是一款免费共享的灾害易发性自动分析软件。
 
