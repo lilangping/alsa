@@ -41,10 +41,10 @@ ALSA是一款免费共享的灾害易发性自动分析软件。
 
 主要参考文献：
 
-_Lan, H.X.*, Zhou, C.H., Wang, L.J., Zhang, H.Y., Li, R.H., 2004. Landslide hazard spatial analysis and prediction using GIS in the Xiaojiang watershed, Yunnan, China. Engineering Geology, 76(1-2), 109–128.（ALSA理论基础）
-兰恒星*, 伍法权, 周成虎, 王思敬, 2002. 基于GIS的云南小江流域滑坡因子敏感性分析. 岩石力学与工程学报, 21(10), 1500–1506.（ALSA理论支撑）
-Li, L.P., Lan, H.X.*, Guo, C.B., Zhang, Y.S., Li, Q.W., Wu, Y.M., 2017. A Modified Frequency Ratio Method for Landslide Susceptibility Assessment. Landslides, 14(2), 727–741.（ALSA 1.0/连续模型初版）
-李郎平, 兰恒星*, 郭长宝, 张永双, 李全文, 伍宇明, 2017. 基于改进频率比法的川藏铁路沿线及邻区地质灾害易发性分区评价. 现代地质, 31(5), 911–929.（ALSA典型应用）
-Zhang, Y.X., Lan, H.X.*, Li, L.P., Wu, Y.M., Chen, J.H., Tian, N.M., 2020. Optimizing the frequency ratio method for landslide susceptibility assessment: A case study of the Caiyuan Basin in the southeast mountainous area of China. Journal of Mountain Science, 17(2), 340–357.（ALSA 2.0/参数最优化版本）
-Li, L.P., Lan, H.X.*, 2023. Bivariate Landslide Susceptibility Analysis: Clarification, Optimization, Open Software, and Preliminary Comparison. Remote Sensing, 15(5), 1418.（ALSA 3.0/双变量方法通用版本）
-Li, L.P., Lan, H.X.*, 2024. Bivariate Analytical ‘decisiveness’ as a robust measure of the absolute importance of landslide predisposing factors. International Journal of Digital Earth, 17(1), 2356161.（ALSA 4.0/5.0/因子绝对重要性分析版本）_
+[1] Lan, H.X.*, Zhou, C.H., Wang, L.J., Zhang, H.Y., Li, R.H., 2004. Landslide hazard spatial analysis and prediction using GIS in the Xiaojiang watershed, Yunnan, China. Engineering Geology, 76(1-2), 109–128.（ALSA理论基础）
+[2] 兰恒星*, 伍法权, 周成虎, 王思敬, 2002. 基于GIS的云南小江流域滑坡因子敏感性分析. 岩石力学与工程学报, 21(10), 1500–1506.（ALSA理论支撑）
+[3] Li, L.P., Lan, H.X.*, Guo, C.B., Zhang, Y.S., Li, Q.W., Wu, Y.M., 2017. A Modified Frequency Ratio Method for Landslide Susceptibility Assessment. Landslides, 14(2), 727–741.（ALSA 1.0/连续模型初版）
+[4] 李郎平, 兰恒星*, 郭长宝, 张永双, 李全文, 伍宇明, 2017. 基于改进频率比法的川藏铁路沿线及邻区地质灾害易发性分区评价. 现代地质, 31(5), 911–929.（ALSA典型应用）
+[5] Zhang, Y.X., Lan, H.X.*, Li, L.P., Wu, Y.M., Chen, J.H., Tian, N.M., 2020. Optimizing the frequency ratio method for landslide susceptibility assessment: A case study of the Caiyuan Basin in the southeast mountainous area of China. Journal of Mountain Science, 17(2), 340–357.（ALSA 2.0/参数最优化版本）
+[6] Li, L.P., Lan, H.X.*, 2023. Bivariate Landslide Susceptibility Analysis: Clarification, Optimization, Open Software, and Preliminary Comparison. Remote Sensing, 15(5), 1418.（ALSA 3.0/双变量方法通用版本）
+[7] Li, L.P., Lan, H.X.*, 2024. Bivariate Analytical ‘decisiveness’ as a robust measure of the absolute importance of landslide predisposing factors. International Journal of Digital Earth, 17(1), 2356161.（ALSA 4.0/5.0/因子绝对重要性分析版本）
