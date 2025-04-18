@@ -55,8 +55,10 @@ ALSA是一款免费共享的灾害易发性自动分析软件。
 感谢您向作者报告任何BUG或错误。
 
 最常见的报错是由数据坐标系问题引起，请参考以下博文解决数据坐标系相关问题：
-https://mp.weixin.qq.com/s/jnY-OWFtR4SsdqQKnLoFoA；
-https://blog.sciencenet.cn/blog-290812-1016263.html；
+
+https://mp.weixin.qq.com/s/jnY-OWFtR4SsdqQKnLoFoA
+
+https://blog.sciencenet.cn/blog-290812-1016263.html
 
 请在使用ALSA时遵守以下规则：
 
