@@ -35,7 +35,7 @@ References:
 
 [4] Li, L.P., Lan, H.X.*, 2023. Bivariate Landslide Susceptibility Analysis: Clarification, Optimization, Open Software, and Preliminary Comparison. Remote Sensing, 15(5), 1418.（ALSA 3.0, Bivariate Generalization）
 
-[5] Li, L.P., Lan, H.X.*, 2024. Bivariate Analytical ‘decisiveness’ as a robust measure of the absolute importance of landslide predisposing factors. International Journal of Digital Earth, 17(1), 2356161.（ALSA 4.0/5.0, Absolute Importance）
+[5] Li, L.P., Lan, H.X.*, 2024. Analytical ‘decisiveness’ as a robust measure of the absolute importance of landslide predisposing factors. International Journal of Digital Earth, 17(1), 2356161.（ALSA 4.0/5.0, Absolute Importance）
 
 
 
@@ -82,4 +82,4 @@ https://blog.sciencenet.cn/blog-290812-1016263.html
 
 [6] Li, L.P., Lan, H.X.*, 2023. Bivariate Landslide Susceptibility Analysis: Clarification, Optimization, Open Software, and Preliminary Comparison. Remote Sensing, 15(5), 1418.（ALSA 3.0/双变量方法通用版本）
 
-[7] Li, L.P., Lan, H.X.*, 2024. Bivariate Analytical ‘decisiveness’ as a robust measure of the absolute importance of landslide predisposing factors. International Journal of Digital Earth, 17(1), 2356161.（ALSA 4.0/5.0/因子绝对重要性分析版本）
+[7] Li, L.P., Lan, H.X.*, 2024. Analytical ‘decisiveness’ as a robust measure of the absolute importance of landslide predisposing factors. International Journal of Digital Earth, 17(1), 2356161.（ALSA 4.0/5.0/因子绝对重要性分析版本）
