@@ -16,6 +16,7 @@ It will be very kind of you to contact the authors if you find any bugs or error
 Errors are most commonly due to problems with data coordinate system. Please refer to the following links: 
 https://mp.weixin.qq.com/s/jnY-OWFtR4SsdqQKnLoFoA; 
 https://blog.sciencenet.cn/blog-290812-1016263.html;
+Another common issue is that data files and folders contain Chinese characters, spaces, hyphens, or other special symbols. It is recommended that, when using ArcGIS, you name all related files and folders using only English letters, numbers, and underscores, starting with an English letter.
 
 Please be aware of the following RULES before using ALSA:
 1. ALSA is a research tool developed by the LAN research group, and is expected to be mainly used for academic purposes. The LAN research group does not assume any responsibility for any risk in using ALSA.
@@ -59,6 +60,8 @@ ALSA是一款免费共享的灾害易发性自动分析软件。
 https://mp.weixin.qq.com/s/jnY-OWFtR4SsdqQKnLoFoA
 
 https://blog.sciencenet.cn/blog-290812-1016263.html
+
+另外一个常见的问题是数据文件以及文件夹命名中包含中文、空格、横杠等特殊字符，建议在使用ArcGIS时只使用英文字母、数字和下划线（英文字母开头）命名相关文件和文件夹。
 
 请在使用ALSA时遵守以下规则：
 
