@@ -15,7 +15,7 @@ It will be very kind of you to contact the authors if you find any bugs or error
 
 Errors are most commonly due to problems with data coordinate system. Please refer to the following links: 
 https://mp.weixin.qq.com/s/jnY-OWFtR4SsdqQKnLoFoA; 
-https://blog.sciencenet.cn/blog-290812-1016263.html;
+https://blog.sciencenet.cn/blog-290812-1016263.html.
 Another common issue is that data files and folders contain Chinese characters, spaces, hyphens, or other special symbols. It is recommended that, when using ArcGIS, you name all related files and folders using only English letters, numbers, and underscores, starting with an English letter.
 
 Please be aware of the following RULES before using ALSA:
